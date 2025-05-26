@@ -1,0 +1,22 @@
+* {
+    margin: auto;
+    padding: 0px;
+    display: block;
+}
+
+.body,
+.list {
+    padding: 20px;
+}
+
+.title {
+    border: solid, black;
+    border-width: 4px;
+    padding: 4px;
+    text-align: center;
+}
+
+.list-item {
+    margin: 12px;
+    text-align: center;
+}
